@@ -9,8 +9,8 @@ youtube/credentials
 youtube/client_secrets.json
 
 # branch_Lenina
-log.txt
-analitica.code-workspace
+./log.txt
+./analitica.code-workspace
 
 # Visual Studio Code
 .vscode/
